@@ -1,0 +1,26 @@
+{
+  "name": "webtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeemaJS/webtools.git"
+  },
+  "keywords": [
+    "gulp",
+    "learn"
+  ],
+  "author": "Deema Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeemaJS/webtools/issues"
+  },
+  "homepage": "https://github.com/DeemaJS/webtools#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
